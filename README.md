@@ -1,2 +1,2 @@
 # pr-review
-The name ampfa tumelo
+The name ampfa
